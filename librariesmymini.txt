@@ -1,0 +1,10 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+transformers
+gemini-api
+flask
+spacy
+pandas
